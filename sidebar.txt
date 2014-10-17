@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ima:home|Door43 (ima)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ima|d43-ima repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ima/archive/master.zip|d43-ima.zip]]
+
+**Recent Changes**
+{{changes>ns = ima}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ima|Ethnologue data]]
+
